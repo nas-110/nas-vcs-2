@@ -1,0 +1,6 @@
+projects:
+  petstore-vcs:
+    description: Project based on Petstore API
+    tags:
+      - petstore
+    lastUpdated: 1745059718065
